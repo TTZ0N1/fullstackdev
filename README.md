@@ -37,4 +37,4 @@
 10. Testing and Quality Assurance:
 • Unit Testing: Write unit tests for your applications using Jest.
 • Integration Testing: Write integration tests for your applications using Cypress.
-Continuous Testing: Implement continuous testing in your Jenkins pipeline.![image](https://github.com/TTZ0N1/fullstackdev/assets/131625753/6ab4157f-6889-4559-8926-14c1e9202c24)
+Continuous Testing: Implement continuous testing in your Jenkins pipeline.
